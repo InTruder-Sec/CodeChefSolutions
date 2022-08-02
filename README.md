@@ -63,6 +63,7 @@ Feel free to suggest simple solutions for each of the problems.
 |[Insurance](https://www.codechef.com/submit/INSURANCE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Insurance.py) |
 |[MaxTaste](https://www.codechef.com/submit/MAXTASTE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/maxtaste.py) |
 |[BuyLamps](https://www.codechef.com/submit/BUYLAMP) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/buylamp.py) |
+|[Tyre](https://www.codechef.com/submit/TYRE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/tyre.py) |
 
 
 

@@ -4,6 +4,7 @@ Solutions for practuce problems uploded on code chef(https://www.codechef.com/pr
 Feel free to suggest simple solutions for each of the problems.
 
 <hr>
+
 # Available Solutions
 
 ## MATH
@@ -69,6 +70,7 @@ Feel free to suggest simple solutions for each of the problems.
 ## Basic Programming
 
 |Problem Code |Solution |
+|-------------|---------|
 |[LastLevels](https://www.codechef.com/submit/LASTLEVELS) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Basic%20Programming/The%20Last%20Level.py) |
 |[Cabs](https://www.codechef.com/submit/CABS) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Basic%20Programming/cabs.py) |
 |[VolControl](https://www.codechef.com/submit/VOLCONTROL) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Basic%20Programming/volcontrol.py) |

@@ -64,7 +64,11 @@ Feel free to suggest simple solutions for each of the problems.
 |[MaxTaste](https://www.codechef.com/submit/MAXTASTE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/maxtaste.py) |
 |[BuyLamps](https://www.codechef.com/submit/BUYLAMP) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/buylamp.py) |
 |[Tyre](https://www.codechef.com/submit/TYRE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/tyre.py) |
-
+|[InstNoodle](https://www.codechef.com/submit/INSTNOODLE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/instnoodle.py) |
+|[Budget_](https://www.codechef.com/submit/BUDGET_) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/budget.py) |
+|[CourseReg](https://www.codechef.com/submit/COURSEREG) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Coursereg.py) |
+|[WaterFlow](https://www.codechef.com/submit/WATERFLOW) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Waterflow.py) |
+|[F1Rule](https://www.codechef.com/submit/F1RULE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/F1Rule.py)
 
 
 

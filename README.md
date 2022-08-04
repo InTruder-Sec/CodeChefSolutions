@@ -68,7 +68,12 @@ Feel free to suggest simple solutions for each of the problems.
 |[Budget_](https://www.codechef.com/submit/BUDGET_) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/budget.py) |
 |[CourseReg](https://www.codechef.com/submit/COURSEREG) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Coursereg.py) |
 |[WaterFlow](https://www.codechef.com/submit/WATERFLOW) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Waterflow.py) |
-|[F1Rule](https://www.codechef.com/submit/F1RULE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/F1Rule.py)
+|[F1Rule](https://www.codechef.com/submit/F1RULE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/F1Rule.py) |
+|[Songs](https://www.codechef.com/submit/SONGS) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Songs.py) |
+|[ChefChoco](https://www.codechef.com/submit/CHEFCHOCO) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/ChefChoco.py) |
+|[CheapFood](https://www.codechef.com/submit/CHEAPFOOD) | [SOlution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Cheapfood.py) |
+|[Subscribe_](https://www.codechef.com/submit/SUBSCRIBE_) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Subscribe_.py) |
+|[WaterCooler1](https://www.codechef.com/submit/WATERCOOLER1) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/WaterCooler1.py) |
 
 
 
@@ -80,3 +85,4 @@ Feel free to suggest simple solutions for each of the problems.
 |[Cabs](https://www.codechef.com/submit/CABS) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Basic%20Programming/cabs.py) |
 |[VolControl](https://www.codechef.com/submit/VOLCONTROL) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Basic%20Programming/volcontrol.py) |
 |[Manipulate](https://www.codechef.com/submit/MANIPULATE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Basic%20Programming/manipulate.py) |
+|[CredScore](https://www.codechef.com/submit/CREDSCORE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Basic%20Programming/Credscore.py) |

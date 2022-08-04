@@ -86,3 +86,9 @@ Feel free to suggest simple solutions for each of the problems.
 |[VolControl](https://www.codechef.com/submit/VOLCONTROL) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Basic%20Programming/volcontrol.py) |
 |[Manipulate](https://www.codechef.com/submit/MANIPULATE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Basic%20Programming/manipulate.py) |
 |[CredScore](https://www.codechef.com/submit/CREDSCORE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Basic%20Programming/Credscore.py) |
+
+
+
+## Array
+
+|[PracticePerf](https://www.codechef.com/submit/PRACTICEPERF) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Array/practiceperf.py) |

@@ -91,4 +91,6 @@ Feel free to suggest simple solutions for each of the problems.
 
 ## Array
 
+|Problem Code |Solution |
+|-------------|---------|
 |[PracticePerf](https://www.codechef.com/submit/PRACTICEPERF) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Array/practiceperf.py) |

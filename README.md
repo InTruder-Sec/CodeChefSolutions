@@ -74,6 +74,14 @@ Feel free to suggest simple solutions for each of the problems.
 |[CheapFood](https://www.codechef.com/submit/CHEAPFOOD) | [SOlution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Cheapfood.py) |
 |[Subscribe_](https://www.codechef.com/submit/SUBSCRIBE_) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Subscribe_.py) |
 |[WaterCooler1](https://www.codechef.com/submit/WATERCOOLER1) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/WaterCooler1.py) |
+|[JAssignment](https://www.codechef.com/submit/JASSIGNMENTS) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Jassignment.py) |
+|[ShopChange](https://www.codechef.com/submit/SHOPCHANGE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/ShopChange.py) |
+|[Jcoins](https://www.codechef.com/submit/JCOINS) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Jcoins.py) |
+|[ARM15A](https://www.codechef.com/submit/AMR15A) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Arm15A.py) |
+|[CredCoins](https://www.codechef.com/submit/CREDCOINS) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Credcoins.py) |
+|[Heliun3](https://www.codechef.com/submit/HELIUM3) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Helium3.py) |
+|[SugarCane](https://www.codechef.com/submit/SUGARCANE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Sugarcane.py) |
+|[NoteBook](https://www.codechef.com/submit/NOTEBOOK) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/NoteBook.py) |
 
 
 

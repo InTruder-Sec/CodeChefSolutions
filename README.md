@@ -82,6 +82,14 @@ Feel free to suggest simple solutions for each of the problems.
 |[Heliun3](https://www.codechef.com/submit/HELIUM3) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Helium3.py) |
 |[SugarCane](https://www.codechef.com/submit/SUGARCANE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Sugarcane.py) |
 |[NoteBook](https://www.codechef.com/submit/NOTEBOOK) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/NoteBook.py) |
+|[ChefCand](https://www.codechef.com/submit/CHEFCAND) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/ChefCand.py) |
+|[SST](https://www.codechef.com/submit/SST) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/SST.py) |
+|[Nibble](https://www.codechef.com/submit/NIBBLE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Nibble.py) |
+|[Qualify](https://www.codechef.com/submit/QUALIFY) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Qualify.py) |
+|[MinCars](https://www.codechef.com/submit/MINCARS) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/MinCars.py) |
+|[Jenga](https://www.codechef.com/submit/JENGA) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Jenga.py) |
+
+
 
 
 
@@ -94,6 +102,8 @@ Feel free to suggest simple solutions for each of the problems.
 |[VolControl](https://www.codechef.com/submit/VOLCONTROL) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Basic%20Programming/volcontrol.py) |
 |[Manipulate](https://www.codechef.com/submit/MANIPULATE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Basic%20Programming/manipulate.py) |
 |[CredScore](https://www.codechef.com/submit/CREDSCORE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Basic%20Programming/Credscore.py) |
+|[IncriQ](https://www.codechef.com/submit/INCRIQ) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Incriq.py) |
+
 
 
 

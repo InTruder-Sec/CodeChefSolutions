@@ -9,9 +9,9 @@ Feel free to suggest simple solutions for each of the problems.
 
 ## MATH
 
-|Problem Code |Solution |
-|-------------|---------|
-|[AgeLimit](https://www.codechef.com/submit/AGELIMIT) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Age-Limit.py) |
+|Problem Code |Solution | Problem Code | Solution |
+|-------------|---------|--------------|----------|
+|[AgeLimit](https://www.codechef.com/submit/AGELIMIT) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Age-Limit.py) |[Movie2X](https://www.codechef.com/submit/MOVIE2X) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Movie2x.py) |
 |[Fill Candies](https://www.codechef.com/submit/FILLCANDIES) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Fill-Candies.py) |
 |[Office](https://www.codechef.com/submit/OFFICE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/office.py) |
 |[Maxtaste](https://www.codechef.com/submit/MAXTASTE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/maxtaste.py) |

@@ -12,9 +12,9 @@ Feel free to suggest simple solutions for each of the problems.
 |Problem Code |Solution | Problem Code | Solution |
 |-------------|---------|--------------|----------|
 |[AgeLimit](https://www.codechef.com/submit/AGELIMIT) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Age-Limit.py) |[Movie2X](https://www.codechef.com/submit/MOVIE2X) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Movie2x.py) |
-|[Fill Candies](https://www.codechef.com/submit/FILLCANDIES) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Fill-Candies.py) |
-|[Office](https://www.codechef.com/submit/OFFICE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/office.py) |
-|[Maxtaste](https://www.codechef.com/submit/MAXTASTE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/maxtaste.py) |
+|[Fill Candies](https://www.codechef.com/submit/FILLCANDIES) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Fill-Candies.py) | [PolThief](https://www.codechef.com/submit/POLTHIEF) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Polthief.py) |
+|[Office](https://www.codechef.com/submit/OFFICE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/office.py) | [Bath](https://www.codechef.com/submit/BATH) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Bath.py) |
+|[Maxtaste](https://www.codechef.com/submit/MAXTASTE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/maxtaste.py) | [FindShoe](https://www.codechef.com/submit/FINDSHOES) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/FindShoe.py)
 |[Buy Lamps](https://www.codechef.com/submit/BUYLAMP) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/buylamp.py) |
 |[Gridbl](https://www.codechef.com/submit/GRIDBL) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/GRIDBL.py) |
 |[HotCold](https://www.codechef.com/submit/HOTCOLD) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/hot-or-cold.py) |

@@ -14,14 +14,14 @@ Feel free to suggest simple solutions for each of the problems.
 |[AgeLimit](https://www.codechef.com/submit/AGELIMIT) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Age-Limit.py) |[Movie2X](https://www.codechef.com/submit/MOVIE2X) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Movie2x.py) |
 |[Fill Candies](https://www.codechef.com/submit/FILLCANDIES) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Fill-Candies.py) | [PolThief](https://www.codechef.com/submit/POLTHIEF) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Polthief.py) |
 |[Office](https://www.codechef.com/submit/OFFICE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/office.py) | [Bath](https://www.codechef.com/submit/BATH) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Bath.py) |
-|[Maxtaste](https://www.codechef.com/submit/MAXTASTE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/maxtaste.py) | [FindShoe](https://www.codechef.com/submit/FINDSHOES) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/FindShoe.py)
-|[Buy Lamps](https://www.codechef.com/submit/BUYLAMP) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/buylamp.py) |
-|[Gridbl](https://www.codechef.com/submit/GRIDBL) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/GRIDBL.py) |
-|[HotCold](https://www.codechef.com/submit/HOTCOLD) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/hot-or-cold.py) |
+|[Maxtaste](https://www.codechef.com/submit/MAXTASTE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/maxtaste.py) | [FindShoe](https://www.codechef.com/submit/FINDSHOES) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/FindShoe.py) |
+|[Buy Lamps](https://www.codechef.com/submit/BUYLAMP) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/buylamp.py) | [C_Rating](https://www.codechef.com/submit/C_RATING) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/C_rating.py) |
+|[Gridbl](https://www.codechef.com/submit/GRIDBL) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/GRIDBL.py) | [ChefBottle](https://www.codechef.com/submit/CHEFBOTTLE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/ChefBottle.py) |
+|[HotCold](https://www.codechef.com/submit/HOTCOLD) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/hot-or-cold.py) | [Blackjack](https://www.codechef.com/submit/BLACKJACK) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Blackjack.py) |
 |[Insurance](https://www.codechef.com/submit/INSURANCE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Insurance.py) |
 |[Biryani](https://www.codechef.com/submit/BIRYANI) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Biryani.py) |
-|[Fit](https://www.codechef.com/submit/FIT) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Fitness.py)
-|[Burgers](https://www.codechef.com/submit/BURGERS) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Burgers.py)
+|[Fit](https://www.codechef.com/submit/FIT) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Fitness.py) |
+|[Burgers](https://www.codechef.com/submit/BURGERS) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Burgers.py) |
 |[Praclist](https://www.codechef.com/submit/PRACLIST) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/PARACLIST.py) |
 |[Detscore](https://www.codechef.com/submit/DETSCORE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Determine-the-score.py) |
 |[Taller](https://www.codechef.com/submit/TALLER) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Taller.py) |

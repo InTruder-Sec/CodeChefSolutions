@@ -103,12 +103,14 @@ Feel free to suggest simple solutions for each of the problems.
 |[Manipulate](https://www.codechef.com/submit/MANIPULATE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Basic%20Programming/manipulate.py) |
 |[CredScore](https://www.codechef.com/submit/CREDSCORE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Basic%20Programming/Credscore.py) |
 |[IncriQ](https://www.codechef.com/submit/INCRIQ) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Incriq.py) |
+|[BatteryLow](https://www.codechef.com/submit/BATTERYLOW) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Basic%20Programming/Batterylow.py)
 
 
 
 
-## Array
+## Data Structures
 
 |Problem Code |Solution |
 |-------------|---------|
 |[PracticePerf](https://www.codechef.com/submit/PRACTICEPERF) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Array/practiceperf.py) |
+|[TodoList](https://www.codechef.com/submit/TODOLIST) |[SOlution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Array/ToDoList.py) |

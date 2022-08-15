@@ -21,8 +21,8 @@ Feel free to suggest simple solutions for each of the problems.
 |[Insurance](https://www.codechef.com/submit/INSURANCE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Insurance.py) | [MyServe](https://www.codechef.com/submit/MYSERVE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Serve.py) |
 |[Biryani](https://www.codechef.com/submit/BIRYANI) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Biryani.py) | [Valentine](https://www.codechef.com/submit/VALENTINE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Valentine.py) |
 |[Fit](https://www.codechef.com/submit/FIT) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Fitness.py) | [MinCoins](https://www.codechef.com/submit/MINCOINS) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/MinCoins.py) |
-|[Burgers](https://www.codechef.com/submit/BURGERS) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Burgers.py) |
-|[Praclist](https://www.codechef.com/submit/PRACLIST) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/PARACLIST.py) |
+|[Burgers](https://www.codechef.com/submit/BURGERS) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Burgers.py) | [Too many Floors](https://www.codechef.com/submit/FLOORS) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Floors.py) |
+|[Praclist](https://www.codechef.com/submit/PRACLIST) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/PARACLIST.py) | [A or B](https://www.codechef.com/submit/AORB) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/AORB.py) |
 |[Detscore](https://www.codechef.com/submit/DETSCORE) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Determine-the-score.py) |
 |[Taller](https://www.codechef.com/submit/TALLER) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/Taller.py) |
 |[My1stcontest](https://www.codechef.com/submit/MY1STCONTEST) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Math/my1stcontest.py) |
@@ -113,4 +113,4 @@ Feel free to suggest simple solutions for each of the problems.
 |Problem Code |Solution |
 |-------------|---------|
 |[PracticePerf](https://www.codechef.com/submit/PRACTICEPERF) | [Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Array/practiceperf.py) |
-|[TodoList](https://www.codechef.com/submit/TODOLIST) |[SOlution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Array/ToDoList.py) |
+|[TodoList](https://www.codechef.com/submit/TODOLIST) |[Solution](https://github.com/InTruder-Sec/CodeChefSolutions/blob/main/Array/ToDoList.py) |
